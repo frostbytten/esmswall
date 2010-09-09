@@ -1,8 +1,0 @@
-run_erl [17298] Thu Sep  9 16:03:16 2010
-Args before exec of shell:
-run_erl [17298] Thu Sep  9 16:03:16 2010
-argv[0] = sh
-run_erl [17298] Thu Sep  9 16:03:16 2010
-argv[1] = -c
-run_erl [17298] Thu Sep  9 16:03:16 2010
-argv[2] = exec /Users/frostbytten/Development/Experiments/esmswall/bin/nitrogen console
