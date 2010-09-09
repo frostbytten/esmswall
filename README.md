@@ -33,7 +33,7 @@ to test this out is [Textmarks](http://www.textmarks.com/), and it works well.
 ## TODO
 
 * __PRIORITY:__ Get it working with riak-0.12
-* __PRIORITY:__ Switch to using the Erlang PBC library for communictions.
+* __PRIORITY:__ Switch to using the Erlang PBC library for communications.
 * More options for the moderators
 * Easier to configure
 * The ability to bypass moderation
