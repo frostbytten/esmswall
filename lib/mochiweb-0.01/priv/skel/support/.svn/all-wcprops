@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/117/trunk/priv/skel/support
+END
+include.mk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/117/trunk/priv/skel/support/include.mk
+END
+run_tests.escript
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/117/trunk/priv/skel/support/run_tests.escript
+END

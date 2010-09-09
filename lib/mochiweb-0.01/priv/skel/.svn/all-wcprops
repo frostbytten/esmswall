@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/117/trunk/priv/skel
+END
+start-dev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/117/trunk/priv/skel/start-dev.sh
+END
+start.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/30/trunk/priv/skel/start.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/117/trunk/priv/skel/Makefile
+END

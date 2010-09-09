@@ -1,0 +1,12 @@
+data/.hgignore.i
+data/.hgtags.i
+data/Makefile.i
+data/c_src/bloom_filter.hpp.i
+data/c_src/ebloom_nifs.cpp.i
+data/c_src/ebloom_nifs.h.i
+data/c_src/serializer.hpp.i
+data/ebin/ebloom.app.i
+data/priv/ebloom_drv.so.i
+data/rebar.i
+data/rebar.config.i
+data/src/ebloom.erl.i
